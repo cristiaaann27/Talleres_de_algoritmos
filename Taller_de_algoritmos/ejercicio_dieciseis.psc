@@ -1,4 +1,4 @@
-Algoritmo ejercicio_diesciseis
+Algoritmo ejercicio_dieciseis
 	Escribir "Ingresa numero uno: "
 	Leer numero_uno
 	Escribir "Ingresa numero dos: "
