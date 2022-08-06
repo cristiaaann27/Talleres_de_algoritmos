@@ -1,4 +1,4 @@
-Algoritmo ejercicio_diesciocho
+Algoritmo ejercicio_dieciocho
 	Escribir "Digita el nombre: "
 	Leer nombre
 	Escribir "Digita el primer apellido:"
