@@ -1,4 +1,4 @@
-Algoritmo ejercicio_diescisiete
+Algoritmo ejercicio_diecisiete
 	Escribir "Ingresa la distancia entre los vehiculos en Km: "
 	Leer distancia
 	Escribir "Ingrese la velocidad del coche uno: "
